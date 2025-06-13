@@ -5,9 +5,20 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/collocMeta.unity
+    guid: 3e41b1eb795658f4bab5ef666147f5bf
+  - enabled: 0
+    path: Assets/Scenes/Interaction UI.unity
+    guid: 96e8cd1e0ac8fd8459902ca756022f1d
+  - enabled: 1
+    path: Assets/Scenes/LocalMultiMeta.unity
+    guid: 9a70e892761b0db45bd2b37c394066ab
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8862fb18abb4bbf45998a682d49b1abb, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: eec2867d714b1c243a463af3ee0dc72e, type: 2}
   m_UseUCBPForAssetBundles: 0
